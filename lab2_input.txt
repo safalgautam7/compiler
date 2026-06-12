@@ -1,0 +1,10 @@
+a*b aaab
+a*b b
+a+b aaab
+a+b b
+ab?c abc
+ab?c ac
+ab?c abbc
+a.c abc
+a.c adc
+a.c ac
